@@ -1,0 +1,52 @@
+main {
+  padding: 30px;
+  font-size: 0;
+}
+
+.inline {
+  display: inline-block;
+  font-size: 0;
+}
+
+.container {
+   font-size: 0px;
+ width: 800px; 
+ height: 500px;
+ margin: auto;
+ border: 1px black solid;
+}
+
+.inner-one {
+   height: 200px;
+   width: 50%;
+   border: 1px black solid;
+   background-color: green;
+}
+
+.inner-two {
+	height: 200px;
+ 	width: 50%;
+  	border: 1px black solid;
+  	background-color: blue;
+}
+
+.inner-three {
+ 	height: 300px;
+ 	width: 33.33%;
+  	border: 1px black solid;
+  	background-color: grey;
+}
+
+.inner-four {
+	height: 300px;
+ 	width: 33.33%;
+  	border: 1px black solid;
+  	background-color: black;
+  }
+
+.inner-five {
+	height: 300px;
+ 	width: 33.33%;
+	border: 1px black solid;
+  	background-color: orange;
+}
